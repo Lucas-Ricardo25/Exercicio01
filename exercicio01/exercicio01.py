@@ -16,3 +16,7 @@ n1 = int(input("Digite um valor: "))
 n2 = int(input("Digite outro valor: "))
 soma = n1 + n2
 print(f'a soma dos dois valores é {soma}')
+
+frutas = ["maça", "pera", "mamão", "kiwi"]
+for fruta in frutas:
+    print(fruta)
